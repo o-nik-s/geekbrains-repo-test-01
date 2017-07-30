@@ -4,6 +4,7 @@ Geekbrains
 https://github.com
 SmartGit - клиент для git
 https://githowto.com/ru - дополнительное обучение
+https://guides.github.com/activities/hello-world/
 
 
 Урок 2
